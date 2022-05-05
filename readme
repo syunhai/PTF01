@@ -1,0 +1,1 @@
+this framework is use for testing the former django application port, it is compsed in python, mainly based on unittest, HTMLTestRunner and requests basic files. 
